@@ -1,14 +1,14 @@
 @font-face{
 font-family:'Alivia';
-src:url('./AliviaRegular.ttf') format('truetype');
+src:url('https://cdn.jsdelivr.net/gh/villedesmerveilles/FontVM/AliviaRegular.ttf') format('truetype');
 }
 
 @font-face{
 font-family:'Bodoni XT';
-src:url('./BodoniXT.ttf') format('truetype');
+src:url('https://cdn.jsdelivr.net/gh/villedesmerveilles/FontVM/BodoniXT.ttf') format('truetype');
 }
 
 @font-face{
 font-family:'Quincho Script';
-src:url('./QuinchoScript_PersonalUse.ttf') format('truetype');
+src:url('https://cdn.jsdelivr.net/gh/villedesmerveilles/FontVM/QuinchoScript_PersonalUse.ttf') format('truetype');
 }
