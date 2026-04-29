@@ -1,0 +1,14 @@
+@font-face{
+font-family:'Alivia';
+src:url('./AliviaRegular.ttf') format('truetype');
+}
+
+@font-face{
+font-family:'Bodoni XT';
+src:url('./BodoniXT.ttf') format('truetype');
+}
+
+@font-face{
+font-family:'Quincho Script';
+src:url('./QuinchoScript_PersonalUse.ttf') format('truetype');
+}
