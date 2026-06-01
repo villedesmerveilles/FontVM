@@ -12,3 +12,9 @@ src:url('https://cdn.jsdelivr.net/gh/villedesmerveilles/FontVM/BodoniXT.ttf') fo
 font-family:'Quincho Script';
 src:url('https://cdn.jsdelivr.net/gh/villedesmerveilles/FontVM/QuinchoScript_PersonalUse.ttf') format('truetype');
 }
+
+
+@font-face{
+font-family:'Amorosa Aged';
+src:url('https://cdn.jsdelivr.net/gh/villedesmerveilles/FontVM/amoresa-aged.otf') format('truetype');
+}
